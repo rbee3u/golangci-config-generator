@@ -1,0 +1,4 @@
+golint
+interfacer
+maligned
+scopelint
